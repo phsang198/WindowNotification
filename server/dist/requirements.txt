@@ -1,0 +1,6 @@
+pyinstaller
+Flask
+schedule
+winotify
+pygame
+gtts

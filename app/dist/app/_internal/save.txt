@@ -1,0 +1,13 @@
+2. viết docs chức năng khác
+3. học TA 
+- sửa schedule chạy ma
+- update config.h config.json service khác
+sửa lại lib schedule + mesh
+-  fix vs viết template webhook 
+- rewrite all code
+- using key pair
+- fix phân quyền theo resource
+
+5. sửa thêm lịch cho note
+- viết easy cmake
+- viết WF auto report

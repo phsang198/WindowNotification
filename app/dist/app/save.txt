@@ -1,0 +1,14 @@
+2. viết docs chức năng khác
+
+3. học TA 
+
+4. Làm bài tập
+
+- sửa schedule chạy ma
+- system git ko chay
+5. sửa thêm lịch cho note
+
+6. tạo giao diện giống cmake
+b1 : tương tác vs console , nhưng hiện lên trên text box 
+b2 : copy qua lib 
+b3 : update

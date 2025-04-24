@@ -1,0 +1,9 @@
+pyinstaller --onefile --noconsole --add-data "config.json;." server.py
+
+pyinstaller --onefile --noconsole  server.py
+
+pyinstaller --onefile --noconsole --add-data "config.json:." --add-data "icon.ico:." app.py
+
+pyinstaller --onefile --runtime-tmpdir F:\OutSource\PYTHON\AUTO_ADD_LIB\dist\tmp --add-data "config.json:." --add-data "icon.ico:." app.py
+
+pyinstaller --onedir  --add-data "config.json:." --add-data "icon.ico:." --noconsole  app.py 
